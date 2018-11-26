@@ -1,2 +1,2 @@
 # Sudoku-Create array
-for learn github
+Create another sudoku array each time you run.
